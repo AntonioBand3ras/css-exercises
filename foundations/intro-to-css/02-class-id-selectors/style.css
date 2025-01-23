@@ -7,3 +7,12 @@
     color:rgb(0,0,255);
     font-size: 36px;
 }
+.odd.font {
+    font-size: 24px;
+}
+
+#fourth{
+    background-color:hsl(116, 100%, 39%) ;s
+    font-size: 24px;
+    font-weight: bold;
+}
